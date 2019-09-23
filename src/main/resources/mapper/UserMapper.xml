@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hsc.news.mapper.UserMapper">
+    <!--<resultMap id="ProjectMap" type="Project">
+        <id property="id" column="id" />
+        <result property="projectName" column="proj_name" />
+        <result property="projectDetail" column="proj_detail" />
+        <result property="speakerId" column="speaker_id" />
+        <result property="scienceId" column="science_id" />
+        <result property="projectImgUrl" column="proj_imgurl" />
+        <result property="projectUrl" column="proj_url" />
+        <result property="speakerName" column="speaker_name" />
+        <result property="scienceName" column="science_name" />
+    </resultMap>-->
+
+</mapper>
